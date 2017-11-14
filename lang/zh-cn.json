@@ -1,0 +1,176 @@
+{
+  "Home": "Home",
+  "Reports": "Reports",
+  "Dashboard" : {
+    "Dashboard": "Dashboard",
+    "Homebrew" : "Homebrew",
+    "Hotspot" : "Hotspots",
+    "Repeaters" : "Repeaters",
+    "DV4mini" : "DV4mini",
+    "Full report" : "Full report",
+    "Masters" : "Masters",
+    "Repeater in RX": "Repeater in RX",
+    "Repeater in TX": "Repeater in TX",
+    "External calls" : "External calls",
+    "Per country": "Per country",
+    "Online per country": "Online per country",
+    "GraphYaxis" : "Homebrew/Hotspot/Repeaters",
+    "Homebrew Hotspots" : "Homebrew Hotspots",
+    "DV4minis" : "DV4minis",
+    "Homebrew Repeaters": "Homebrew Repeaters",
+    "Industrial Repeaters":"Industrial Repeaters",
+    "Repeater models": "Repeater models",
+    "Repeater versions": "Firmware versions",
+    "PIchartDescr" : "Click the slice of the pie to see more details",
+    "Device stats": "Device statistics"
+  },
+  "LH" : {
+    "LastHeard" : "LastHeard",
+    "Time": "Time",
+    "Master": "Master",
+    "Master ID": "Master ID",
+    "SessionID": "Session ID",
+    "Link name" : "Link name",
+    "My call" : "My call",
+    "My ID" : "My ID",
+    "Source" : "Source",
+    "Source ID":"Source ID",
+    "Source Call":"Source Call",
+    "Destination" : "Destination",
+    "Destination ID" : "Destination ID",
+    "Reflector" : "Reflector",
+    "Options" : "Options",
+    "RSSI" : "RSSI",
+    "Duration" : "Duration",
+    "Loss rate" : "Loss rate",
+    "Save" : "Save",
+    "Load SQL":"Load SQL",
+    "Columns": "Columns",
+    "Unique":"Unique",
+    "Yes":"Yes",
+    "No":"No",
+    "Search":"Search"
+  },
+  "Connected reflectors" : {
+    "Connected reflectors" : "Connected reflectors",
+    "Reflectors": "Reflectors",
+    "Name" : "Name",
+    "Reflector" : "Reflector"
+  },
+  "Extended routing": {
+    "Extended routing": "Extended routing",
+    "Extended Routing for DV4mini" : "Extended Routing for DV4mini",
+    "User ID" : "User ID",
+    "Choose dongle" : "Choose dongle",
+    "Mapped group" : "Mapped group",
+    "Talkgroup" : "Talkgroup",
+    "OK": "OK",
+    "help" : "For help about this please check the wiki",
+    "not responding" : "not responding",
+    "Master" : "Master",
+    "Error" : "Error!",
+    "missing dongle" : "Error: Missing dongle",
+    "error reflector" : "Error: Cant connect to a reflector please use a talkgroup"
+  },
+  "Repeaters" : {
+    "Repeaters": "Repeaters",
+    "Number" : "Number",
+    "Name":"Name",
+    "Hardware":"Hardware",
+    "Firmware":"Firmware",
+    "TX":"TX",
+    "RX":"RX",
+    "CC":"CC",
+    "Status":"Status",
+    "Master":"Master"
+  }, 
+  "Hotspots" : {
+    "Hotspots": "Hotspots",
+    "Number" : "Number",
+    "Name":"Name",
+    "Hardware":"Hardware",
+    "Firmware":"Firmware",
+    "TX":"TX",
+    "RX":"RX",
+    "CC":"CC",
+    "Status":"Status",
+    "Master":"Master"
+  }, 
+  "Masters" : {
+    "Masters": "Masters",
+    "Country":"Country",
+    "Number":"Number",
+    "Version":"Version",
+    "Links":"Links",
+    "Status": "Status",
+    "List": "List"
+  }, 
+  "Alerts" : {
+    "Alerts": "Alerts",
+    "Time":"Time",
+    "Repeater":"Repeater",
+    "Alarm": "Alarm",
+    "Master": "Master",
+    "Data": "Data"
+  }, 
+  "Calls" : {
+    "Calls": "Calls",
+    "Call statistics":"Call statistics",
+    "Filters": "Filters",
+    "Talkgroup" : "Talkgroup",
+    "Display Per TG" : "Display Per TG",
+    "Display Per reflector": "Display Per reflector",
+    "Total":"Total",
+    "QSOs per Hour":"QSOs per Hour",
+    "ClickZoom": "Click and drag in the plot area to zoom in",
+    "PinchZoom": "Pinch the chart to zoom in",
+    "QSOs":"QSOs",
+    "Time per Hour": "Time per Hour",
+    "Seconds": "Seconds"
+  },
+  "Table" : {
+    "All": "All",
+    "DataTables": {
+      "emptyTable":     "No data available in table",
+      "info":           "Showing _START_ to _END_ of _TOTAL_ entries",
+      "infoEmpty":      "Showing 0 to 0 of 0 entries",
+      "infoFiltered":   "(filtered from _MAX_ total entries)",
+      "infoPostFix":    "",
+      "infoThousands":  ",",
+      "lengthMenu":     "Show _MENU_ entries",
+      "loadingRecords": "Loading...",
+      "processing":     "Processing...",
+      "search":         "Search:",
+      "zeroRecords":    "No matching records found",
+      "paginate": {
+          "first":    "First",
+          "last":     "Last",
+          "next":     "Next",
+          "previous": "Previous"
+      },
+      "aria": {
+          "sortAscending":  ": activate to sort column ascending",
+          "sortDescending": ": activate to sort column descending"
+      }
+    }
+  },
+  "Monitoring" : {
+    "Error": "Error!",
+    "Master": "Master",
+    "not responding": "not responding"
+  },
+  "ConfigDialog" : {
+    "Settings": "设置",
+    "General": "通用",
+    "LastHeard": "最后收到",
+    "Display alerts":"显示通知",
+    "API Timeout":"API超时",
+    "API Timeout Max":"最大超时时间60S",
+    "TimeQSO": "对QSO显示日期/时间",
+    "Close": "关闭",
+    "Save": "保存"
+  },
+  "HighCharts": {
+    "drillUpText": "\u25c1 Back to {series.name}"
+  }
+}
